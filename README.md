@@ -3,9 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there,%20I'm%20Meri%20Mardones;I'm%20always%20learning%20new%20things&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<div align="center"><img src="https://pronoun.cyou/x/y?subject=She&object=Her&height=20">
-</div>
-
 <p align="center">
 <a href="https://twitter.com/merimardones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="merimardones" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/mariamardonesmuñoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariamardonesmuñoz" height="20" width="30" /></a>
@@ -16,6 +13,8 @@
 <br>
 <p align="center">
   Hi, I'm María Agustina Mardones aka Meri
+  <br>
+  :rainbow: My pronouns are She/Her
   <br>
   <br>
   🔬 I'm currently studying at Laboratoria's Frontend bootcamp 
