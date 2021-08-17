@@ -21,7 +21,7 @@
   <br>
   🎓 I'm a Spanish Language & Literature teacher
   <br>
-  💻 I love the world of UX Design and hope to becoming one of the team soon
+  💻 I love the world of UX Design and hope to become one of the team soon
   <br>
   📚 I’m currently learning how to use NodeJs & CSS frameworks
   <br>
